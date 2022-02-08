@@ -1,0 +1,1 @@
+Ilosc zastapionych stron dla 20 ramek, wynosi = 3
